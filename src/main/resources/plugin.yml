@@ -1,0 +1,9 @@
+name: InventoryTotem
+version: '1.0.0'
+main: de.scholle.inventorytotem.InventoryTotem
+api-version: '1.18'
+prefix: InvTotem
+load: STARTUP
+authors: [ Mobilestars ]
+description: Description
+website: https://modrinth.com/project/inventorytotem
