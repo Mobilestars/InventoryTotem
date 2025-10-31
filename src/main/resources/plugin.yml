@@ -5,5 +5,5 @@ api-version: '1.18'
 prefix: InvTotem
 load: STARTUP
 authors: [ Mobilestars ]
-description: Description
+description: Makes the totem of undying works when it's anywhere in the inventory.
 website: https://modrinth.com/project/inventorytotem
